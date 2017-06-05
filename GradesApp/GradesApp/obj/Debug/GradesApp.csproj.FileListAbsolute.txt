@@ -1,0 +1,6 @@
+C:\Users\Fernando.Lebron\Documents\Visual Studio 2017\Projects\GradesApp\GradesApp\bin\Debug\GradesApp.exe.config
+C:\Users\Fernando.Lebron\Documents\Visual Studio 2017\Projects\GradesApp\GradesApp\bin\Debug\GradesApp.exe
+C:\Users\Fernando.Lebron\Documents\Visual Studio 2017\Projects\GradesApp\GradesApp\bin\Debug\GradesApp.pdb
+C:\Users\Fernando.Lebron\Documents\Visual Studio 2017\Projects\GradesApp\GradesApp\obj\Debug\GradesApp.csprojResolveAssemblyReference.cache
+C:\Users\Fernando.Lebron\Documents\Visual Studio 2017\Projects\GradesApp\GradesApp\obj\Debug\GradesApp.exe
+C:\Users\Fernando.Lebron\Documents\Visual Studio 2017\Projects\GradesApp\GradesApp\obj\Debug\GradesApp.pdb
